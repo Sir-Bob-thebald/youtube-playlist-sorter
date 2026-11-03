@@ -1,0 +1,11 @@
+{
+  "philosophy": ["philosophy", "ethics", "metaphysics", "epistemology", "existentialism",
+                 "stoicism", "kant", "nietzsche", "plato", "aristotle", "socrates",
+                 "derrida", "postmodern", "zizek", "politic", "hegel", "acid"],
+  "theology": ["theology", "religion", "christianity", "islam", "judaism", "buddhism",
+               "hinduism", "spiritual", "god", "faith", "scripture", "divine"],
+  "math": ["mathematics", "math", "algebra", "calculus", "geometry", "statistics",
+           "probability", "theorem", "equation", "mathematical"],
+  "programming": ["programming", "coding", "python", "javascript", "java", "algorithm",
+                  "developer", "software", "code", "web development", "app"]
+}

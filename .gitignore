@@ -1,0 +1,21 @@
+# Secrets & personal data - never commit these
+client_secret*.json
+!client_secret.example.json
+token.json
+youtube_config.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
